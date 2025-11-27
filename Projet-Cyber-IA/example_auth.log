@@ -1,0 +1,21 @@
+Nov 26 08:15:23 server sshd[12345]: Failed password for root from 192.168.1.100 port 22 ssh2
+Nov 26 08:15:25 server sshd[12346]: Failed password for admin from 192.168.1.100 port 22 ssh2
+Nov 26 08:15:27 server sshd[12347]: Failed password for root from 192.168.1.100 port 22 ssh2
+Nov 26 08:16:01 server sshd[12348]: Failed password for invalid user test from 203.0.113.50 port 22 ssh2
+Nov 26 08:16:03 server sshd[12349]: Failed password for root from 203.0.113.50 port 22 ssh2
+Nov 26 08:16:05 server sshd[12350]: Failed password for admin from 203.0.113.50 port 22 ssh2
+Nov 26 08:16:07 server sshd[12351]: Failed password for root from 203.0.113.50 port 22 ssh2
+Nov 26 08:17:12 server sshd[12352]: Failed password for root from 198.51.100.25 port 22 ssh2
+Nov 26 08:17:14 server sshd[12353]: Failed password for user from 198.51.100.25 port 22 ssh2
+Nov 26 08:18:45 server sshd[12354]: Accepted password for john from 10.0.0.5 port 22 ssh2
+Nov 26 08:19:23 server sshd[12355]: Failed password for root from 192.168.1.100 port 22 ssh2
+Nov 26 08:19:25 server sshd[12356]: Failed password for admin from 192.168.1.100 port 22 ssh2
+Nov 26 08:20:11 server sshd[12357]: authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=203.0.113.50
+Nov 26 08:20:13 server sshd[12358]: Invalid user hacker from 203.0.113.50 port 22 ssh2
+Nov 26 08:20:15 server sshd[12359]: Failed password for invalid user hacker from 203.0.113.50 port 22 ssh2
+Nov 26 08:21:30 server sshd[12360]: Failed password for root from 198.51.100.25 port 22 ssh2
+Nov 26 08:22:45 server sshd[12361]: Failed password for ubuntu from 192.168.1.100 port 22 ssh2
+Nov 26 08:23:10 server sshd[12362]: Accepted publickey for admin from 10.0.0.10 port 22 ssh2
+Nov 26 08:24:33 server sshd[12363]: Failed password for root from 203.0.113.50 port 22 ssh2
+Nov 26 08:24:35 server sshd[12364]: Failed password for root from 203.0.113.50 port 22 ssh2
+

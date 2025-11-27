@@ -1,0 +1,30 @@
+# CyberSec Blue Team Toolkit V2 - Dependencies
+
+# Core Web Framework
+streamlit>=1.28.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# HTTP Requests
+requests>=2.31.0
+
+# Machine Learning / AI
+torch>=2.0.0
+transformers>=4.30.0
+scikit-learn>=1.3.0
+
+# DNS Resolution
+dnspython>=2.4.0
+
+# Visualization
+plotly>=5.17.0
+
+# Environment Variables
+python-dotenv>=1.0.0
+
+# Optional but recommended
+# For better performance with transformers
+sentencepiece>=0.1.99
+accelerate>=0.20.0
