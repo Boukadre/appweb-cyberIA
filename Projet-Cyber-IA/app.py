@@ -1,6 +1,6 @@
 """
 Blue Team Toolkit - Web App de Cyber-Défense
-Application Streamlit modulaire pour l'analyse de sécurité
+Application Streamlit modulaire pour l'analyse de sécurité test
 """
 
 import streamlit as st
